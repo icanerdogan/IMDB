@@ -7,10 +7,11 @@ import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 
-class TvShowLocalDataSourceImpl(private val tvDao: TVShowDao):
-    TvShowLocalDataSource {
+class TvShowLocalDataSourceImpl(
+    private val tvDao: TVShowDao
+) : TvShowLocalDataSource {
     override suspend fun getTvShowsFromDB(): List<TVShow> {
-       return tvDao.getTVShows()
+        return tvDao.getTVShows()
     }
 
     override suspend fun saveTvShowsToDB(tvShows: List<TVShow>) {
@@ -20,8 +21,8 @@ class TvShowLocalDataSourceImpl(private val tvDao: TVShowDao):
     }
 
     override suspend fun clearAll() {
-       CoroutineScope(Dispatchers.IO).launch {
-           tvDao.deleteAllTVShows()
-       }
+        CoroutineScope(Dispatchers.IO).launch {
+            tvDao.deleteAllTVShows()
+        }
     }
 }
