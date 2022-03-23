@@ -1,10 +1,10 @@
 package com.anushka.tmdbclient.data.repository.tvshow
 
 import android.util.Log
-import com.anushka.tmdbclient.data.repository.tvshow.datasource.TvShowCacheDataSource
-import com.anushka.tmdbclient.data.repository.tvshow.datasource.TvShowLocalDataSource
-import com.anushka.tmdbclient.data.repository.tvshow.datasource.TvShowRemoteDatasource
 import com.icanerdogan.imdb.data.model.tvshow.TVShow
+import com.icanerdogan.imdb.data.repository.tvshow.datasource.TvShowCacheDataSource
+import com.icanerdogan.imdb.data.repository.tvshow.datasource.TvShowLocalDataSource
+import com.icanerdogan.imdb.data.repository.tvshow.datasource.TvShowRemoteDatasource
 import com.icanerdogan.imdb.domain.repository.TVShowRepository
 import java.lang.Exception
 
