@@ -4,11 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/ibrahim.erdogan/OneDrive - Logo/Documents/Code/Kotlin/Projects/CompleteAndroidJetpackBootcamp/MVVMCleanArchitectureProject1/app/src/main/res/drawable/button_rounded.xml" value="0.188" />
+        <entry key="..\:/Users/ibrahim.erdogan/OneDrive - Logo/Documents/Code/Kotlin/Projects/CompleteAndroidJetpackBootcamp/MVVMCleanArchitectureProject1/app/src/main/res/drawable/update_icon.xml" value="0.153" />
         <entry key="..\:/Users/ibrahim.erdogan/OneDrive - Logo/Documents/Code/Kotlin/Projects/CompleteAndroidJetpackBootcamp/MVVMCleanArchitectureProject1/app/src/main/res/layout/activity_artist.xml" value="0.1796875" />
         <entry key="..\:/Users/ibrahim.erdogan/OneDrive - Logo/Documents/Code/Kotlin/Projects/CompleteAndroidJetpackBootcamp/MVVMCleanArchitectureProject1/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
         <entry key="..\:/Users/ibrahim.erdogan/OneDrive - Logo/Documents/Code/Kotlin/Projects/CompleteAndroidJetpackBootcamp/MVVMCleanArchitectureProject1/app/src/main/res/layout/activity_movie.xml" value="0.1796875" />
         <entry key="..\:/Users/ibrahim.erdogan/OneDrive - Logo/Documents/Code/Kotlin/Projects/CompleteAndroidJetpackBootcamp/MVVMCleanArchitectureProject1/app/src/main/res/layout/activity_tvshow.xml" value="0.10280797101449275" />
         <entry key="..\:/Users/ibrahim.erdogan/OneDrive - Logo/Documents/Code/Kotlin/Projects/CompleteAndroidJetpackBootcamp/MVVMCleanArchitectureProject1/app/src/main/res/layout/row_layout.xml" value="0.1796875" />
+        <entry key="..\:/Users/ibrahim.erdogan/OneDrive - Logo/Documents/Code/Kotlin/Projects/CompleteAndroidJetpackBootcamp/MVVMCleanArchitectureProject1/app/src/main/res/menu/update.xml" value="0.1640625" />
       </map>
     </option>
   </component>
